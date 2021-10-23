@@ -7,6 +7,5 @@ public class Car {
     String kolor;
     int vmax;
     int horsePower;
-    int tourqe;
 }
 
