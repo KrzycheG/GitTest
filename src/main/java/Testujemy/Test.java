@@ -9,7 +9,7 @@ package Testujemy;
  *
  * @author kpstr
  */
-public class Dupa {
+public class Test {
     
     String Nazwa;
     int rozmiar;
