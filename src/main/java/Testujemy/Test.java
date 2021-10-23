@@ -10,7 +10,7 @@ package Testujemy;
  * @author kpstr
  */
 public class Test {
-    
+    String blabla;
     String Nazwa;
     int rozmiar;
 }
