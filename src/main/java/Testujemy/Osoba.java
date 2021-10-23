@@ -36,4 +36,12 @@ public class Osoba {
         this.dob = dob;
     }
 
+    @java.lang.Override
+    public java.lang.String toString() {
+        return "Osoba{" +
+                "name='" + name + '\'' +
+                ", surname='" + surname + '\'' +
+                ", dob=" + dob +
+                '}';
+    }
 }
