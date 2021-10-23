@@ -27,4 +27,5 @@ public class Squash {
     public void setAmen(String amen) {
         this.amen = amen;
     }
+
 }
