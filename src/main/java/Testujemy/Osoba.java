@@ -35,4 +35,5 @@ public class Osoba {
     public void setDob(int dob) {
         this.dob = dob;
     }
+
 }
