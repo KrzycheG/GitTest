@@ -23,4 +23,8 @@ public class Squash {
     public int getMin() {
         return min;
     }
+
+    public void setAmen(String amen) {
+        this.amen = amen;
+    }
 }
