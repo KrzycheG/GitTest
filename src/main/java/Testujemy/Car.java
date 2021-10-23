@@ -5,4 +5,5 @@ public class Car {
     String marka;
     double cena;
     String kolor;
+    int vmax;
 }
