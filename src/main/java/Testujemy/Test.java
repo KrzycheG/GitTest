@@ -7,9 +7,10 @@ package Testujemy;
 
 /**
  *
- * @author kpstr
+ * @author kpstr, puzjeh
  */
 public class Test {
+
     String blabla;
     String Nazwa;
     int rozmiar;
