@@ -5,6 +5,7 @@ public class Squash {
     String amen;
     String mamen;
     int min;
+    int bombom;
 
     public Squash(String amen, String mamen, int min) {
         this.amen = amen;
