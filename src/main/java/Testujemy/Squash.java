@@ -11,4 +11,16 @@ public class Squash {
         this.mamen = mamen;
         this.min = min;
     }
+
+    public String getAmen() {
+        return amen;
+    }
+
+    public String getMamen() {
+        return mamen;
+    }
+
+    public int getMin() {
+        return min;
+    }
 }
